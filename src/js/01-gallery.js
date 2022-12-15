@@ -1,5 +1,6 @@
 // Add imports above this line
-import { galleryItems } from './gallery-items';
+import { gallmeryItems } from './gallery-items';
+console.log('galleryItems', galleryItems);
 // Change code below this line
 // Описаний в документації
 import SimpleLightbox from 'simplelightbox';
